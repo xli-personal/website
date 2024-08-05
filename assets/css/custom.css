@@ -14,7 +14,7 @@
   /* Adjust .post or .page if needed */
 .post, .home, .page {
     max-width: 100%; /* Ensure full width within the wrapper */
-    margin-top: 50px;
+    margin-top: 40px;
   }
 
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
@@ -23,4 +23,30 @@
     font-family: 'Lobster', cursive;
 }
 
+
+.name-list {
+    color: #000000;
+    font-size: 14px;
+  }
+  
+  .highlight-name {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .highlight-name::after {
+    content: '*'; /* Adds the asterisk */
+    position: absolute;
+    right: -3px; /* Adjust position as needed */
+    top: -3.5px; /* Adjust position as needed */
+    color: rgb(17, 0, 255); /* Adjust color as needed */
+    font-size: 18px; /* Adjust size as needed */
+  }
+
+  .grey-bar {
+    border: none; /* Remove default border */
+    border-top: 1px solid rgb(209, 206, 206); /* Grey line with 2px thickness */
+    margin-top: 20px; /* Adjust space above the line */
+    margin-bottom: 20px; /* Adjust space below the line */
+  }
   

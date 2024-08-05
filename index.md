@@ -9,22 +9,37 @@ layout: page
 <!-- ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}) -->
 
 <p>
-My name is Xiao. I'm a CS PhD student at Princeton University working on computational imaging research. I'm interested in developing novel optical systems by combining hardware design with computation or simulation. Before coming to Princeton, I worked at Magic Leap and contributed to the <a href="https://www.magicleap.com/optics-technology" target="_blank"><u>display optics design</u></a> and the <a href="https://developer-docs.magicleap.cloud/docs/guides/features/headpose/" target="_blank"><u>SLAM-based headpose system</u></a> development of AR headset. I also conducted research in Terahertz photonics at UCLA advised by 
+My name is Xiao. I'm a CS PhD student at Princeton University working on computational imaging research. I'm interested in developing novel optical systems by combining hardware design with computation or simulation. Before coming to Princeton, I worked at Magic Leap and contributed to the <a href="https://www.magicleap.com/optics-technology" target="_blank"><u>display optics design</u></a> and the <a href="https://developer-docs.magicleap.cloud/docs/guides/features/headpose/" target="_blank"><u>SLAM-based headpose system</u></a> of AR headset. I also conducted research in Terahertz photonics at UCLA advised by 
 <a href="https://samueli.ucla.edu/people/mona-jarrahi/" target="_blank"><u>Prof. Mona Jarrahi</u></a>.
 </p>
 
-
-<h2>Publications</h2>
+<hr class="grey-bar">
+<h2 style="margin-top: 30px;">Publications</h2>
+<p style="font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px; line-height: 1.4;margin-top: -10px;">
+“*” stands for equal contribution.
+</p>
 
 <p style="font-family: 'Helvetica', 'Arial', sans-serif; font-size: 17px; line-height: 1.4;">
   <a href="https://arxiv.org/abs/2308.03407" style="color: #ff6347; text-decoration: underline;">
     Spatially varying nanophotonic neural networks
   </a><br>
-  <span style="color: #000000; font-size: 14px;">Kaixuan Wei, Xiao Li, Johannes Froech, Praneeth Chakravarthula, James Whitehead, Ethan Tseng, Arka Majumdar, Felix Heide</span><br>
+<span class="name-list">
+  <span class="highlight-name">Kaixuan Wei&nbsp;</span>,
+  <span class="highlight-name">Xiao Li&nbsp;</span>,
+  <span class="highlight-name">Johannes Froech&nbsp;</span>,
+  Praneeth Chakravarthula, 
+  James Whitehead, 
+  Ethan Tseng, 
+  Arka Majumdar, 
+  Felix Heide
+</span><br>
+
+
+  <!-- <span style="color: #000000; font-size: 14px;">Kaixuan Wei, Xiao Li, Johannes Froech, Praneeth Chakravarthula, James Whitehead, Ethan Tseng, Arka Majumdar, Felix Heide</span><br> -->
   <span style="color: #000000; font-size: 14px;">Preprint arXiv:2308.03407</span><br>
   <ul style="color: #000000; font-size: 14px; margin-top: -10px; padding-left: 20px;">
-    <li>Summary:</li>
-    <li>Contribution:</li>
+    <li>Summary: Demonstrated a metalens array camera that performs large-kernel spatially-varying neural network convolution during the image capture. Combined with a lightweight electronic backend with approximately 2K parameters, this neural network reaches 72.76% blind test classification accuracy on CIFAR-10 dataset and outperforms the first modern digital neural network -- AlexNet (72.64%) with 57M parameters.</li>
+    <li>Contribution: Device design and optimization, optical system setup, dataset collection and calibration</li>
   </ul>
 </p>
 
@@ -35,8 +50,8 @@ My name is Xiao. I'm a CS PhD student at Princeton University working on computa
   <span style="color: #000000; font-size: 14px;">Praneeth Chakravarthula, Jipeng Sun, Xiao Li, Chenyang Lei, Gene Chou, Mario Bijelic, Johannes Froesch, Arka Majumdar, Felix Heide</span><br>
   <span style="color: #000000; font-size: 14px;">SIGGRAPH ASIA 2023</span><br>
   <ul style="color: #000000; font-size: 14px; margin-top: -10px; padding-left: 20px;">
-    <li>Summary:</li>
-    <li>Contribution:</li>
+    <li>Summary: Demonstrated a wide FoV broadband flat camera that combines a metalens array design with probabilistic deconvolution implemented using a conditional diffusion model to improve the image quality.</li>
+    <li>Contribution: Design and setup of the hardware prototype, dataset collection and alignment. </li>
   </ul>
 </p>
 
@@ -47,8 +62,8 @@ My name is Xiao. I'm a CS PhD student at Princeton University working on computa
   <span style="color: #000000; font-size: 14px;">Zheng Shi, Yuval Bahat, Seung-Hwan Baek, Qiang Fu, Hadi Amata, Xiao Li, Praneeth Chakravarthula, Wolfgang Heidrich, Felix Heide</span><br>
   <span style="color: #000000; font-size: 14px;">SIGGRAPH 2022</span><br>
   <ul style="color: #000000; font-size: 14px; margin-top: -10px; padding-left: 20px;">
-    <li>Summary:</li>
-    <li>Contribution:</li>
+    <li>Summary: Proposed a computational monocular camera that optically cloaks unwanted obstructions by jointly designing a diffractive optical element at the aperture plane and a feature-based deep learning reconstruction network to recover the unobstructed image.</li>
+    <li>Contribution: Participated in discussions and assisted the experiments.</li>
   </ul>
 </p>
 
@@ -59,8 +74,8 @@ My name is Xiao. I'm a CS PhD student at Princeton University working on computa
   <span style="color: #000000; font-size: 14px;">S.-H. Yang, R. Watts, X. Li, N. Wang, V. Cojocaru, J. O’Gorman, L. P. Barry, and M. Jarrahi</span><br>
   <span style="color: #000000; font-size: 14px;">Optics Express </span><br>
   <ul style="color: #000000; font-size: 14px; margin-top: -10px; padding-left: 20px;">
-    <li>Summary:</li>
-    <li>Contribution:</li>
+    <li>Summary: Demonstrate a compact broadband terahertz source based on difference frequency generation by pumping a plasmonic photomixer with the dual frequencies from a two-section digital distributed feedback laser diode. </li>
+    <li>Contribution: Device simulation and characterization</li>
   </ul>
 </p>
 
@@ -73,7 +88,7 @@ My name is Xiao. I'm a CS PhD student at Princeton University working on computa
 
 <h2>Non-work stuff</h2>
 <ul class="Patents">
-	<li>When I'm not playing with cameras and pixels in the lab, I like taking photos, with street photography being my favorite. Here's selected <a href="https://www.instagram.com/xli_photography/" target="_blank">photos</a> I took with iPhone.</li>
+	<li>When I'm not playing with cameras and pixels in the lab, I like taking photos, with street photography being my favorite. Here's selected <a href="https://www.instagram.com/xli_photography/" target="_blank">photos</a> that I took with an iPhone.</li>
 </ul>
 
     
