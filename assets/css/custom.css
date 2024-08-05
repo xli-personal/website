@@ -1,0 +1,26 @@
+/* Set max-width for normal and large wrapper */
+.wrapper-normal {
+    max-width: 1000px; /* Adjust as needed */
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+  
+.wrapper-large {
+    max-width: 1200px; /* Adjust as needed */
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+  
+  /* Adjust .post or .page if needed */
+.post, .home, .page {
+    max-width: 100%; /* Ensure full width within the wrapper */
+    margin-top: 50px;
+  }
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.custom-font {
+    font-family: 'Lobster', cursive;
+}
+
+  
