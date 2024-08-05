@@ -25,7 +25,7 @@ My name is Xiao. I'm a CS PhD student at Princeton University working on computa
   </a><br>
 <span class="name-list">
   <span class="highlight-name">Kaixuan Wei&nbsp;</span>,
-  <span class="highlight-name">Xiao Li&nbsp;</span>,
+  <span class="highlight-name" style="text-decoration: underline;">Xiao Li&nbsp;</span>,
   <span class="highlight-name">Johannes Froech&nbsp;</span>,
   Praneeth Chakravarthula, 
   James Whitehead, 
@@ -34,8 +34,6 @@ My name is Xiao. I'm a CS PhD student at Princeton University working on computa
   Felix Heide
 </span><br>
 
-
-  <!-- <span style="color: #000000; font-size: 14px;">Kaixuan Wei, Xiao Li, Johannes Froech, Praneeth Chakravarthula, James Whitehead, Ethan Tseng, Arka Majumdar, Felix Heide</span><br> -->
   <span style="color: #000000; font-size: 14px;">Preprint arXiv:2308.03407</span><br>
   <ul style="color: #000000; font-size: 14px; margin-top: -10px; padding-left: 20px;">
     <li>Summary: Demonstrated a metalens array camera that performs large-kernel spatially-varying neural network convolution during the image capture. Combined with a lightweight electronic backend with approximately 2K parameters, this neural network reaches 72.76% blind test classification accuracy on CIFAR-10 dataset and outperforms the first modern digital neural network -- AlexNet (72.64%) with 57M parameters.</li>
@@ -47,7 +45,14 @@ My name is Xiao. I'm a CS PhD student at Princeton University working on computa
   <a href="https://dl.acm.org/doi/10.1145/3618398" style="color: #ff6347; text-decoration: underline;">
     Thin On-Sensor Nanophotonic Array Cameras
   </a><br>
-  <span style="color: #000000; font-size: 14px;">Praneeth Chakravarthula, Jipeng Sun, Xiao Li, Chenyang Lei, Gene Chou, Mario Bijelic, Johannes Froesch, Arka Majumdar, Felix Heide</span><br>
+
+  <span class="name-list">
+  Praneeth Chakravarthula, 
+  Jipeng Sun, 
+  <span style="text-decoration: underline;">Xiao Li&nbsp;</span>,
+  Chenyang Lei, Gene Chou, Mario Bijelic, Johannes Froesch, Arka Majumdar, Felix Heide
+  </span><br>
+
   <span style="color: #000000; font-size: 14px;">SIGGRAPH ASIA 2023</span><br>
   <ul style="color: #000000; font-size: 14px; margin-top: -10px; padding-left: 20px;">
     <li>Summary: Demonstrated a wide FoV broadband flat camera that combines a metalens array design with probabilistic deconvolution implemented using a conditional diffusion model to improve the image quality.</li>
@@ -59,7 +64,13 @@ My name is Xiao. I'm a CS PhD student at Princeton University working on computa
   <a href="https://light.princeton.edu/publication/seeing-through-obstructions/" style="color: #ff6347; text-decoration: underline;">
     Seeing Through Obstructions with Diffractive Cloaking
   </a><br>
-  <span style="color: #000000; font-size: 14px;">Zheng Shi, Yuval Bahat, Seung-Hwan Baek, Qiang Fu, Hadi Amata, Xiao Li, Praneeth Chakravarthula, Wolfgang Heidrich, Felix Heide</span><br>
+
+  <span class="name-list">
+  Zheng Shi, Yuval Bahat, Seung-Hwan Baek, Qiang Fu, Hadi Amata,
+  <span style="text-decoration: underline;">Xiao Li&nbsp;</span>,
+  Praneeth Chakravarthula, Wolfgang Heidrich, Felix Heide
+  </span><br>
+
   <span style="color: #000000; font-size: 14px;">SIGGRAPH 2022</span><br>
   <ul style="color: #000000; font-size: 14px; margin-top: -10px; padding-left: 20px;">
     <li>Summary: Proposed a computational monocular camera that optically cloaks unwanted obstructions by jointly designing a diffractive optical element at the aperture plane and a feature-based deep learning reconstruction network to recover the unobstructed image.</li>
@@ -71,7 +82,12 @@ My name is Xiao. I'm a CS PhD student at Princeton University working on computa
   <a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-23-24-31206&id=332775" style="color: #ff6347; text-decoration: underline;">
     Tunable terahertz wave generation through a bimodal laser diode and plasmonic photomixer
   </a><br>
-  <span style="color: #000000; font-size: 14px;">S.-H. Yang, R. Watts, X. Li, N. Wang, V. Cojocaru, J. O’Gorman, L. P. Barry, and M. Jarrahi</span><br>
+  <span class="name-list">
+  S.-H. Yang, R. Watts,
+  <span style="text-decoration: underline;">X. Li&nbsp;</span>,
+  N. Wang, V. Cojocaru, J. O’Gorman, L. P. Barry, and M. Jarrahi
+  </span><br>
+
   <span style="color: #000000; font-size: 14px;">Optics Express </span><br>
   <ul style="color: #000000; font-size: 14px; margin-top: -10px; padding-left: 20px;">
     <li>Summary: Demonstrate a compact broadband terahertz source based on difference frequency generation by pumping a plasmonic photomixer with the dual frequencies from a two-section digital distributed feedback laser diode. </li>
