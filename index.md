@@ -9,7 +9,7 @@ layout: page
 <!-- ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}) -->
 
 <p>
-Hi! My name is Xiao. I'm a CS PhD student at Princeton University working on computational imaging research. I'm interested in developing novel optical systems by combining hardware design with computation or simulation. Before coming to Princeton, I worked at Magic Leap and contributed to the <a href="https://www.magicleap.com/optics-technology" target="_blank"><u>display optics design</u></a> and the <a href="https://developer-docs.magicleap.cloud/docs/guides/features/headpose/" target="_blank"><u>SLAM-based headpose system</u></a> of AR headsets. I also conducted research in Terahertz photonics at UCLA advised by 
+Hi! My name is Xiao. I'm a CS PhD student at Princeton University working on computational imaging research. I'm interested in developing novel optical systems by combining hardware design with computation or simulation. Before coming to Princeton, I worked at Magic Leap and contributed to the <a href="https://www.magicleap.com/optics-technology" target="_blank"><u>display optics/waveguide design</u></a> and the <a href="https://developer-docs.magicleap.cloud/docs/guides/features/headpose/" target="_blank"><u>SLAM-based head tracking system</u></a> of AR headsets. I also conducted research in Terahertz photonics at UCLA advised by 
 <a href="https://samueli.ucla.edu/people/mona-jarrahi/" target="_blank"><u>Prof. Mona Jarrahi</u></a>.
 </p>
 
@@ -34,10 +34,10 @@ Hi! My name is Xiao. I'm a CS PhD student at Princeton University working on com
   Felix Heide
 </span><br>
 
-  <span style="color: #000000; font-size: 14px;">📚 Preprint arXiv:2308.03407</span><br>
+  <span style="color: #000000; font-size: 14px;">📚 Accepted by Science Advances, Preprint arXiv:2308.03407</span><br>
   <ul style="color: #000000; font-size: 14px; margin-top: -10px; padding-left: 20px;">
-    <li>Summary: Demonstrated a metalens array camera that performs large-kernel spatially-varying neural network convolution during the image capture. Combined with a lightweight electronic backend with ~ 2K parameters, this neural network reaches 72.76% blind test classification accuracy on CIFAR-10 dataset and outperforms AlexNet (72.64%) with 57M parameters.</li>
-    <li>Contribution: Device design and optimization, optical system setup, dataset collection and calibration</li>
+    <li><u style="color: blue;">Summary:</u> Demonstrated a metalens array camera that performs large-kernel spatially-varying neural network convolution during the image capture. Combined with a lightweight electronic backend with ~ 2K parameters, this neural network reaches 72.76% blind test classification accuracy on CIFAR-10 dataset and outperforms AlexNet with 57M parameters.</li>
+    <li><u style="color: blue;">Contribution:</u> Device design and optimization, optical system setup, dataset collection and calibration</li>
   </ul>
 </p>
 
@@ -55,8 +55,8 @@ Hi! My name is Xiao. I'm a CS PhD student at Princeton University working on com
 
   <span style="color: #000000; font-size: 14px;">📚 SIGGRAPH ASIA 2023</span><br>
   <ul style="color: #000000; font-size: 14px; margin-top: -10px; padding-left: 20px;">
-    <li>Summary: Demonstrated a wide FoV broadband flat camera that combines a metalens array design with probabilistic deconvolution implemented using a conditional diffusion model to improve the image quality.</li>
-    <li>Contribution: Design and setup of the hardware prototype, dataset collection and alignment. </li>
+    <li><u style="color: blue;">Summary:</u> Demonstrated a wide FoV broadband flat camera that combines a metalens array design with probabilistic deconvolution implemented using a conditional diffusion model to improve the image quality.</li>
+    <li><u style="color: blue;">Contribution:</u> Design and setup of the hardware prototype, dataset collection and alignment. </li>
   </ul>
 </p>
 
@@ -73,8 +73,8 @@ Hi! My name is Xiao. I'm a CS PhD student at Princeton University working on com
 
   <span style="color: #000000; font-size: 14px;">📚 SIGGRAPH 2022</span><br>
   <ul style="color: #000000; font-size: 14px; margin-top: -10px; padding-left: 20px;">
-    <li>Summary: Proposed a computational monocular camera that optically cloaks unwanted obstructions by jointly designing a diffractive optical element at the aperture plane and a feature-based deep learning reconstruction network to recover the unobstructed image.</li>
-    <li>Contribution: Participated in discussions and assisted the experiments.</li>
+    <li><u style="color: blue;">Summary:</u> Proposed a computational monocular camera that optically cloaks unwanted obstructions by jointly designing a diffractive optical element at the aperture plane and a feature-based deep learning reconstruction network to recover the unobstructed image.</li>
+    <li><u style="color: blue;">Contribution:</u> Participated in discussions and assisted the experiments.</li>
   </ul>
 </p>
 
@@ -90,8 +90,8 @@ Hi! My name is Xiao. I'm a CS PhD student at Princeton University working on com
 
   <span style="color: #000000; font-size: 14px">📚 Optics Express </span><br>
   <ul style="color: #000000; font-size: 14px; margin-top: -10px; padding-left: 20px;">
-    <li>Summary: Demonstrated a compact broadband terahertz source based on difference frequency generation by pumping a plasmonic photomixer with the dual frequencies from a two-section digital distributed feedback laser diode. </li>
-    <li>Contribution: Device simulation and characterization</li>
+    <li><u style="color: blue;">Summary:</u> Demonstrated a compact broadband terahertz source based on difference frequency generation by pumping a plasmonic photomixer with the dual frequencies from a two-section digital distributed feedback laser diode. </li>
+    <li><u style="color: blue;">Contribution:</u> Device simulation and characterization</li>
   </ul>
 </p>
 
