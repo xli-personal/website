@@ -36,8 +36,8 @@ Hi! My name is Xiao. I'm a CS PhD student at Princeton University working on com
 
   <span style="color: #000000; font-size: 14px;">📚 Accepted by Science Advances, Preprint arXiv:2308.03407</span><br>
   <ul style="color: #000000; font-size: 14px; margin-top: -10px; padding-left: 20px;">
-    <li><u style="color: blue;">Summary:</u> Demonstrated a metalens camera that performs large-kernel spatially-varying neural network convolution during the image capture. Combined with a lightweight electronic backend with ~ 2K parameters, this neural network outperforms AlexNet (~57M parameters) on CIFAR-10 blind test classification accuracy.</li>
-    <li><u style="color: blue;">Contribution:</u> Device design and optimization, optical system setup, real dataset collection and calibration w.r.t. electronic ground truth </li>
+    <li><u style="color: blue;">Summary:</u> Demonstrated a metalens camera that performs large-kernel spatially-varying neural network convolution during the image capture. Combined with a lightweight electronic backend, this neural network outperforms AlexNet on CIFAR-10 blind test classification accuracy for the first time.</li>
+    <li><u style="color: blue;">Contribution:</u> Device design and optimization, experimental setup, real dataset collection and calibration w.r.t. electronic ground truth </li>
   </ul>
 </p>
 
@@ -56,7 +56,7 @@ Hi! My name is Xiao. I'm a CS PhD student at Princeton University working on com
   <span style="color: #000000; font-size: 14px;">📚 SIGGRAPH ASIA 2023</span><br>
   <ul style="color: #000000; font-size: 14px; margin-top: -10px; padding-left: 20px;">
     <li><u style="color: blue;">Summary:</u> Demonstrated a wide FoV broadband flat camera that combines a metalens array design with probabilistic deconvolution implemented using a conditional diffusion model to improve the image quality.</li>
-    <li><u style="color: blue;">Contribution:</u> Design and setup of the hardware prototype, real dataset collection and alignment. </li>
+    <li><u style="color: blue;">Contribution:</u> Design and setup of the hardware prototype, dataset collection and alignment. </li>
   </ul>
 </p>
 
