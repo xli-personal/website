@@ -9,7 +9,7 @@ layout: page
 <!-- ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}) -->
 
 <p>
-Hi! My name is Xiao. I'm a CS PhD student at Princeton University working on computational imaging research. I'm interested in developing novel optical systems and physical AI systems by combining hardware design with computation or machine learning. Recently, I have been focused on leveraging metalens to resolve the bottlenecks in conventional imaging and computation systems. Before coming to Princeton, I worked at Magic Leap and contributed to the <a href="https://www.magicleap.com/optics-technology" target="_blank"><u>display optics/waveguide design</u></a> and the <a href="https://developer-docs.magicleap.cloud/docs/guides/features/headpose/" target="_blank"><u>SLAM-based head tracking system</u></a> of AR headsets. I also conducted research in Terahertz photonics at UCLA advised by 
+Hi! My name is Xiao. I'm a CS PhD student at Princeton University working on computational imaging research. I'm interested in developing novel optical systems and other physical AI systems by combining hardware design with computational methods or machine learning. My interests span both application-specific research and fundamental frameworks that can drive advancements across diverse domains. Recently, I have been focused on developing metalens cameras to resolve the bottlenecks in conventional imaging and computation systems. Before coming to Princeton, I worked at Magic Leap and contributed to the <a href="https://www.magicleap.com/optics-technology" target="_blank"><u>display optics/waveguide design</u></a> and the <a href="https://developer-docs.magicleap.cloud/docs/guides/features/headpose/" target="_blank"><u>SLAM-based head pose tracking system</u></a> of AR headsets. I also conducted research in Terahertz photonics at UCLA advised by 
 <a href="https://samueli.ucla.edu/people/mona-jarrahi/" target="_blank"><u>Prof. Mona Jarrahi</u></a>.
 </p>
 
@@ -36,8 +36,8 @@ Hi! My name is Xiao. I'm a CS PhD student at Princeton University working on com
 
   <span style="color: #000000; font-size: 14px;">📚 Science Advances</span><br>
   <ul style="color: #000000; font-size: 14px; margin-top: -10px; padding-left: 20px;">
-    <li><u style="color: blue;">Summary:</u> Demonstrated a metalens camera that performs large-kernel spatially-varying neural network convolution during the image capture. Combined with a lightweight electronic backend, this neural network outperforms AlexNet on CIFAR-10 blind test classification accuracy for the first time.</li>
-    <li><u style="color: blue;">Contribution:</u> Device design and optimization, experimental setup, real dataset collection and calibration w.r.t. electronic ground truth </li>
+    <li><u style="color: blue;">Summary:</u> Demonstrated a compact metalens camera that performs neural network convolution during the image capture with low power consumption. This optical computing prototype outperforms AlexNet on CIFAR-10 blind test classification accuracy for the first time.</li>
+    <li><u style="color: blue;">Contribution:</u> Device design and optimization, performing experiments, hardware setup, real dataset collection and calibration </li>
   </ul>
 </p>
 
