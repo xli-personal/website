@@ -9,7 +9,7 @@ layout: page
 <!-- ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}) -->
 
 <p>
-Hi! My name is Xiao. I'm a CS PhD student at Princeton University working on computational imaging research. I'm interested in developing novel optical systems and other physical AI systems by combining hardware design with computational methods or machine learning.  
+Hi! My name is Xiao. I'm a CS PhD student at Princeton University working on computational imaging research. I'm interested in developing novel optical systems and other physical AI systems by combining system design with computational methods or machine learning.  
 <p>
 Recently, I have been focused on applying machine learning to the design of metalens cameras to resolve the bottlenecks in imaging and computation systems. Before coming to Princeton, I worked at Magic Leap and contributed to the <a href="https://www.magicleap.com/optics-technology" target="_blank"><u>display optics/waveguide design</u></a> and the <a href="https://developer-docs.magicleap.cloud/docs/guides/features/headpose/" target="_blank"><u>SLAM-based head pose tracking system</u></a> of AR headsets. I also conducted research in Terahertz photonics at UCLA advised by 
 <a href="https://samueli.ucla.edu/people/mona-jarrahi/" target="_blank"><u>Prof. Mona Jarrahi</u></a>.
@@ -102,6 +102,16 @@ Recently, I have been focused on applying machine learning to the design of meta
 	<li>Eyeball Camera for Display System Calibration, US 2021/0014477, WO/2021/011420, CN114128256, EP3997867</li>
 	<li>Waveguides with High Index Materials and Methods of Fabrication thereof, US 2022/0128817, WO/2020/185954 </li>
 	<li>Systems and Methods for External Light Management, WO2020/023266, US 2021/0231951, CN113811803, EP3938824</li>
+</ul>
+
+<h2>Coursework</h2>
+<p style="font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px; line-height: 1.4;margin-top: -10px;">
+I took a good amount of various senior/graduate level courses, including
+</p>
+<ul class="Patents">
+	<li>CS: Theoretical Machine Learning, Advanced Computer Graphics, Distributed Systems, Information Theory</li>
+  <li>EE/Optics: Biomedical Imaging, Optics and Lasers, Wireless Communication, Semiconductor Devices</li>
+  <li>Physics: Adcanved Electromagnetics, Computational Methods in Electromagnetics, Quantum Mechanics, Solid State Electronics</li>
 </ul>
 
 <h2>Non-work stuff</h2>
