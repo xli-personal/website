@@ -38,7 +38,7 @@ Recently, I have been focused on applying machine learning to the design of meta
 
   <span style="color: #000000; font-size: 14px;">📚 Science Advances</span><br>
   <ul style="color: #000000; font-size: 14px; margin-top: -10px; padding-left: 20px;">
-    <li><u style="color: blue;">Summary:</u> Demonstrated a compact metalens camera that performs neural network convolution during the image capture with low power consumption. This optical computing prototype outperforms AlexNet on CIFAR-10 blind test classification accuracy for the first time.</li>
+    <li><u style="color: blue;">Summary:</u> Demonstrated a compact metalens camera that performs neural network convolution during the image capture. This optical computing prototype performs >99% FLOPS with photons and outperforms AlexNet on CIFAR-10 blind test classification accuracy for the first time.</li>
     <li><u style="color: blue;">Contribution:</u> Device design and optimization, performing experiments, hardware setup, real dataset capturing and calibration </li>
   </ul>
 </p>
@@ -57,7 +57,7 @@ Recently, I have been focused on applying machine learning to the design of meta
 
   <span style="color: #000000; font-size: 14px;">📚 SIGGRAPH ASIA 2023</span><br>
   <ul style="color: #000000; font-size: 14px; margin-top: -10px; padding-left: 20px;">
-    <li><u style="color: blue;">Summary:</u> Demonstrated a wide FoV broadband flat camera that combines a metalens array design with probabilistic deconvolution implemented using a conditional diffusion model to improve the image quality.</li>
+    <li><u style="color: blue;">Summary:</u> Demonstrated a broadband metalens array camera with learned probabilistic deconvolution to improve the image quality.</li>
     <li><u style="color: blue;">Contribution:</u> Design and setup of the hardware prototype, paired GT and training dataset capturing and alignment. </li>
   </ul>
 </p>
@@ -75,7 +75,7 @@ Recently, I have been focused on applying machine learning to the design of meta
 
   <span style="color: #000000; font-size: 14px;">📚 SIGGRAPH 2022</span><br>
   <ul style="color: #000000; font-size: 14px; margin-top: -10px; padding-left: 20px;">
-    <li><u style="color: blue;">Summary:</u> Proposed a computational monocular camera that optically cloaks unwanted obstructions by jointly designing a diffractive optical element at the aperture plane and a feature-based deep learning reconstruction network to recover the unobstructed image.</li>
+    <li><u style="color: blue;">Summary:</u> Proposed a computational monocular camera that cloaks unwanted obstructions by jointly designing a diffractive optical element at the aperture plane and a feature-based deep learning reconstruction network to recover the unobstructed image.</li>
     <li><u style="color: blue;">Contribution:</u> Participated in discussions and assisted the experiments.</li>
   </ul>
 </p>
