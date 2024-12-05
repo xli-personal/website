@@ -93,7 +93,7 @@ Recently, I have been focused on applying machine learning to the design of meta
   <span style="color: #000000; font-size: 14px">📚 Optics Express </span><br>
   <ul style="color: #000000; font-size: 14px; margin-top: -10px; padding-left: 20px;">
     <li><u style="color: blue;">Summary:</u> Demonstrated a compact broadband terahertz source based on difference frequency generation by pumping a plasmonic photomixer with the dual frequencies from a two-section digital distributed feedback laser diode. </li>
-    <li><u style="color: blue;">Contribution:</u> Device simulation and characterization</li>
+    <li><u style="color: blue;">Contribution:</u> Device simulation(FDTD) and characterization using optical and RF equipment</li>
   </ul>
 </p>
 
