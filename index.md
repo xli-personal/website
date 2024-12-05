@@ -38,8 +38,8 @@ Recently, I have been focused on applying machine learning to the design of meta
 
   <span style="color: #000000; font-size: 14px;">📚 Science Advances</span><br>
   <ul style="color: #000000; font-size: 14px; margin-top: -10px; padding-left: 20px;">
-    <li><u style="color: blue;">Summary:</u> Demonstrated a compact metalens camera that performs neural network convolution during the image capture. This optical computing prototype performs >99% FLOPS with photons and outperforms AlexNet on CIFAR-10 blind test classification accuracy for the first time.</li>
-    <li><u style="color: blue;">Contribution:</u> Device design and optimization, performing experiments, hardware and control setup, real dataset aquisition, training neural networks with real images </li>
+    <li><u style="color: blue;">Summary:</u> Demonstrated a compact metalens array camera that performs neural network convolution during the image capture. This optical computing prototype performs >99% FLOPS with photons and outperforms AlexNet on CIFAR-10 blind test classification accuracy for the first time.</li>
+    <li><u style="color: blue;">Contribution:</u> ML-based device design and optimization, hardware setup and real dataset acquisition, training neural networks with real images </li>
   </ul>
 </p>
 
