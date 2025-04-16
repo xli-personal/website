@@ -39,6 +39,7 @@ Recently, I have been focused on applying machine learning to the design of meta
   <span style="color: #000000; font-size: 14px;">📚 Science Advances</span><br>
   <ul style="color: #000000; font-size: 14px; margin-top: -10px; padding-left: 20px;">
     <li><u style="color: blue;">Summary:</u> Demonstrated a compact metalens array camera that performs neural network convolution during the image capture. This optical computing prototype performs >99% FLOPS with photons and outperforms AlexNet on CIFAR-10 blind test classification accuracy for the first time.</li>
+    <li><u style="color: blue;">Contribution:</u> ML-based device design and optimization, hardware setup and real dataset acquisition, training neural networks with real images </li>
   </ul>
 </p>
 
@@ -57,6 +58,7 @@ Recently, I have been focused on applying machine learning to the design of meta
   <span style="color: #000000; font-size: 14px;">📚 SIGGRAPH ASIA 2023</span><br>
   <ul style="color: #000000; font-size: 14px; margin-top: -10px; padding-left: 20px;">
     <li><u style="color: blue;">Summary:</u> Demonstrated a broadband metalens array camera with learned probabilistic deconvolution to improve the image quality.</li>
+    <li><u style="color: blue;">Contribution:</u> Design and setup of the hardware prototype, paired GT and training image dataset capturing and alignment. </li>
   </ul>
 </p>
 
@@ -74,6 +76,7 @@ Recently, I have been focused on applying machine learning to the design of meta
   <span style="color: #000000; font-size: 14px;">📚 SIGGRAPH 2022</span><br>
   <ul style="color: #000000; font-size: 14px; margin-top: -10px; padding-left: 20px;">
     <li><u style="color: blue;">Summary:</u> Proposed a computational monocular camera that cloaks unwanted obstructions by jointly designing a diffractive optical element at the aperture plane and a feature-based deep learning reconstruction network to recover the unobstructed image.</li>
+    <li><u style="color: blue;">Contribution:</u> Participated in discussions and assisted the experiments.</li>
   </ul>
 </p>
 
@@ -90,6 +93,7 @@ Recently, I have been focused on applying machine learning to the design of meta
   <span style="color: #000000; font-size: 14px">📚 Optics Express </span><br>
   <ul style="color: #000000; font-size: 14px; margin-top: -10px; padding-left: 20px;">
     <li><u style="color: blue;">Summary:</u> Demonstrated a compact broadband terahertz source based on difference frequency generation by pumping a plasmonic photomixer with the dual frequencies from a two-section digital distributed feedback laser diode. </li>
+    <li><u style="color: blue;">Contribution:</u> Device simulation(FDTD) and characterization using optical and RF equipment</li>
   </ul>
 </p>
 
@@ -98,6 +102,16 @@ Recently, I have been focused on applying machine learning to the design of meta
 	<li>Eyeball Camera for Display System Calibration, US 2021/0014477, WO/2021/011420, CN114128256, EP3997867</li>
 	<li>Waveguides with High Index Materials and Methods of Fabrication thereof, US 2022/0128817, WO/2020/185954 </li>
 	<li>Systems and Methods for External Light Management, WO2020/023266, US 2021/0231951, CN113811803, EP3938824</li>
+</ul>
+
+<h2>Coursework</h2>
+<p style="font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px; line-height: 1.4;margin-top: -10px;">
+I took a good amount of various senior/graduate level courses, including
+</p>
+<ul class="Patents">
+	<li>CS: Theoretical Machine Learning, Advanced Computer Graphics, Distributed Systems, Information Theory</li>
+  <li>EE/Optics: Biomedical Imaging, Optics and Lasers, Wireless Communication, Semiconductor Devices</li>
+  <li>Physics: Adcanved Electromagnetics, Computational Methods in Electromagnetics, Quantum Mechanics, Solid State Electronics</li>
 </ul>
 
 <h2>Non-work stuff</h2>
