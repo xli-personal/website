@@ -10,10 +10,10 @@ layout: page
 
 <p>
 Hi! My name is Xiao. I'm a CS PhD student at Princeton University in the vision/graphics area. I'm interested in developing novel physical AI systems for applications in imaging, computing, robotics, and beyond by combining system design with computational methods or machine learning.  
-<p>
+
 Recently, I have been focused on applying machine learning to the inverse design of metalens cameras for photography and optical computing. Before coming to Princeton, I worked at Magic Leap and contributed to the <a href="https://www.magicleap.com/optics-technology" target="_blank"><u>imaging/display optics</u></a> and the <a href="https://developer-docs.magicleap.cloud/docs/guides/features/headpose/" target="_blank"><u>SLAM-based head pose tracking system</u></a> of AR headsets. I also conducted research in Terahertz photonics at UCLA advised by 
 <a href="https://samueli.ucla.edu/people/mona-jarrahi/" target="_blank"><u>Prof. Mona Jarrahi</u></a>.
-<p>
+
 Currently, I'm on leave and working at Meta Reality Labs.
 </p>
 
