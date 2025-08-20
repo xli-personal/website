@@ -15,6 +15,7 @@ Recently, I have been focused on applying machine learning to the inverse design
 <a href="https://samueli.ucla.edu/people/mona-jarrahi/" target="_blank"><u>Prof. Mona Jarrahi</u></a>.
 <p>
 Currently, I'm on leave and working at Meta Reality Labs.
+</p>
 
 <hr class="grey-bar">
 <h2 style="margin-top: 30px;">Publications</h2>
